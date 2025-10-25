@@ -28,3 +28,6 @@ Cada uma possui:
  └── README.md
 
 Desenvolvido por: **João Pedro Lima Barbosa**
+
+
+link do video no youtube https://youtu.be/pZTBuCogu20
